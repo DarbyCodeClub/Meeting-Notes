@@ -1,12 +1,12 @@
 # Meeting 1
-
+## Info
  * **Date:** 5/5/15
  * **Time:** 2:00 pm EST
  * **Location:** #froyo
  * **Author:** Ernie Parke (@Choco31415)
  * **Editor:** Alex Shafer (@enzanki_ars)
 
-During the meeting, we:
+## Notes
  * Cleaned up the ideas, goals, and tasks of officers.
    * Captain
      * Plans out major projects and finds places to volunteer at.
