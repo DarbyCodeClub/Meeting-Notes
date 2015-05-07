@@ -19,5 +19,5 @@
    * Unix
    * LEGO Mindstorm
    * Various languages
-   * Large end of the year project to show off skills
+   * Year End Showcase
  * Discussed the club name. Currently, three out of five members are in favor of Computer Club.
